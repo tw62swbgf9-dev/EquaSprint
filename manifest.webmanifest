@@ -1,0 +1,11 @@
+{
+ "name":"EquaSprint – Allenamento numerico",
+ "short_name":"EquaSprint",
+ "description":"Equazioni numeriche generate automaticamente, utilizzabili anche offline.",
+ "start_url":"./",
+ "scope":"./",
+ "display":"standalone",
+ "background_color":"#0b1121",
+ "theme_color":"#101a33",
+ "icons":[{"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]
+}
